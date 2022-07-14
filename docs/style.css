@@ -413,6 +413,7 @@ progress::-moz-progress-bar{
 }
 .gray-scale{
     filter: grayscale(0.3);
+   
 }
 .text-left{
     text-align: center;
@@ -635,6 +636,10 @@ progress::-moz-progress-bar{
     }
     .services .smo{
         grid-column: span 2;
+    }
+    .foto{
+        display: flex;
+        justify-content: center;
     }
     
 
